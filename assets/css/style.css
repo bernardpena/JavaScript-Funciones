@@ -1,0 +1,35 @@
+section{
+    display: flex;
+    flex-direction: column;
+}
+
+section h1{
+    display: flex;
+    justify-content: center;
+    color: black;
+    margin: 10px 10px;
+}
+div{
+    height: 200px;
+    width: 200px;
+}
+
+#div-1{
+    background-color: blue;
+    margin: 10px 10px;
+}
+
+#div-2{
+    background-color: red;
+    margin: 10px 10px;
+}
+
+#div-3{
+    background-color: green;
+    margin: 10px 10px;
+}
+
+#div-4{
+    background-color: yellow;
+    margin: 10px 10px;
+}
