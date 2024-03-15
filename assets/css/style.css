@@ -9,6 +9,7 @@ section h1{
     color: black;
     margin: 10px 10px;
 }
+
 div{
     height: 200px;
     width: 200px;
@@ -31,5 +32,10 @@ div{
 
 #div-4{
     background-color: yellow;
+    margin: 10px 10px;
+}
+
+#key{
+    background-color: white;
     margin: 10px 10px;
 }
